@@ -2,8 +2,7 @@
 
 I'm a Flutter Developer at iMake CO LTD., 
 
-- 🔭 I’m currently working on the [bloc library](https://bloclibrary.dev)
-- ☕ I’m learning how to make latte art
+- ☕ I'm learning how to make it better.
 - 🧑‍💻 I’m looking to collaborate on open source projects
 - 💬 Ask me about [Flutter](https://flutter.dev) and [Dart](https://dart.dev).
 - 😄 Pronouns: he/him/his
