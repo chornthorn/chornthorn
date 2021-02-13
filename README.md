@@ -10,4 +10,4 @@ I'm a Flutter Developer at iMake CO LTD.,
 
 ### Github Stats
 
-[![Thorn's Github Stats](https://github-readme-stats.vercel.app/api?username=chornthorn&count_private=true&theme=default&show_icons=true)](https://github.com/chornthorn)
+[![Thorn's Github Stats](https://github-readme-stats.vercel.app/api?username=chornthorn&count_private=true&theme=radical&show_icons=true)](https://github.com/chornthorn)
