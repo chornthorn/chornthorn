@@ -12,5 +12,6 @@ I'm a Flutter Developer at iMake CO LTD.,
 
 [![Thorn's Github Stats](https://github-readme-stats.vercel.app/api?username=chornthorn&count_private=true&theme=default&show_icons=true)](https://github.com/chornthorn)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chornthorn&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chornthorn&layout=compact)](https://github.com/chornthorn/github-readme-stats)
 
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=chornthorn)](https://github.com/chornthorn/github-readme-stats)
