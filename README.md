@@ -16,6 +16,5 @@ I'm a Flutter Developer As Freelancer
 ### Github Stats
 
 [![Thorn's Github Stats](https://github-readme-stats.vercel.app/api?username=chornthorn&count_private=true&theme=default&show_icons=true)](https://github.com/chornthorn)
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=chornthorn)](https://github.com/chornthorn/github-readme-stats)
 
 ![Profile views](https://gpvc.arturio.dev/chornthorn)
