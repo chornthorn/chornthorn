@@ -14,3 +14,7 @@ I'm a Flutter Developer As Freelancer
 [![Subscribe Youtube](https://img.shields.io/badge/Youtube-informational?style=social&logo=youtube)](https://www.youtube.com/channel/UCUCrwkghkmuMkm9_yP1xhRw)
 
 ![Profile views](https://gpvc.arturio.dev/chornthorn)
+
+### Github Stats
+
+[![Chorn Thorn's Github Stats](https://github-readme-stats.vercel.app/api?username=chornthorn&count_private=true&theme=default&show_icons=true)](https://github.com/chornthorn)
