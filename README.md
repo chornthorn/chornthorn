@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a Flutter Developer As Freelancer  
+I'm a Flutter Developer 
 
 - ☕ I'm learning how to make it better.
 - 🧑‍💻 I’m looking to collaborate on open source projects
