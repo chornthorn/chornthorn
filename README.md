@@ -1,3 +1,6 @@
+[![Thorn's Github Stats](https://github-readme-stats.vercel.app/api?username=chornthorn&count_private=true&theme=transparent&show_icons=true&rank_icon=percentile&line_height=24)](https://github.com/chornthorn)
+[![Top Langs](https://github-readme-stats-khode-io.vercel.app/api/top-langs/?username=chornthorn&layout=compact&langs_count=8&theme=transparent&size_weight=0.7&count_weight=0.3)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/chornthorn/github-readme-stats))
+
 ### Hi there 👋
 
 I'm a Software Developer 
@@ -14,7 +17,3 @@ I'm a Software Developer
 [![Subscribe Youtube](https://img.shields.io/badge/Youtube-informational?style=social&logo=youtube)](https://www.youtube.com/@khodedevdotcom)
 
 ![Profile views](https://komarev.com/ghpvc/?username=chornthorn&color=brightgreen)
-
-### Github Stats
-
-[![Chorn Thorn's Github Stats](https://github-readme-stats.vercel.app/api?username=chornthorn&count_private=true&theme=default&show_icons=true)](https://github.com/chornthorn)
