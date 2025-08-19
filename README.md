@@ -11,9 +11,9 @@ I'm a Software Developer
 - 😄 Pronouns: he/him/his
 - ⚡ favorite: Cat and dog 
 
-[![Follow me on Twitter](https://img.shields.io/twitter/follow/bong_thorn?style=social)](https://twitter.com/bong_thorn)
+[![Follow me on Twitter](https://img.shields.io/twitter/follow/chornthorn?style=social)](https://twitter.com/chornthorn)
 [![GitHub followers](https://img.shields.io/github/followers/chornthorn?style=social)](https://github.com/chornthorn)
 [![Connect LinkedIn](https://img.shields.io/badge/LinkedIn-informational?style=social&logo=linkedin)](https://www.linkedin.com/in/chornthorn)
-[![Subscribe Youtube](https://img.shields.io/badge/Youtube-informational?style=social&logo=youtube)](https://www.youtube.com/@khodedevdotcom)
+[![Subscribe Youtube](https://img.shields.io/badge/Youtube-informational?style=social&logo=youtube)](https://www.youtube.com/@khode-io)
 
 ![Profile views](https://komarev.com/ghpvc/?username=chornthorn&color=brightgreen)
